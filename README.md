@@ -10,4 +10,4 @@ It supports addition, subtraction, multiplication, and division.
 2. Run the file:
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.PNG)
